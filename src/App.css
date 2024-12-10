@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  color: white; /* Um sicherzustellen, dass der Text sichtbar ist */
+  background-color: #282c34; /* Optional, damit der Hintergrund dunkler ist */
+  min-height: 100vh; /* Sicherstellen, dass der Container die gesamte Höhe einnimmt */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
